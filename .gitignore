@@ -1,11 +1,18 @@
-# Ignore The following directories / file extensions
-Library
-<<<<<<< HEAD
-Temp
-
 # Ignore the following file extensions
 *.exe
+*.dll
+*.so
+*.vcproject
+*.sln
+*.csproj
+*.unityproj
+*.pidb
+*.userprefs
+=======
+Temp
+=======
 *.vcproject
 *.sln
 =======
 Temp
+Library
